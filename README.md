@@ -1,3 +1,15 @@
+## Set Up
+- Local is set up as standard
+- Cloud9 set up
+
+```
+## to start up notebook
+ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
+## use token to validate
+## this is in the cloud publicly, so be careful what is in here
+## to see notebook->https://instancename(topfolder)-username.c9users.io
+```
+
 # DataGraphs
 data and graphs
 
