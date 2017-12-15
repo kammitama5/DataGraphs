@@ -33,6 +33,7 @@ data and graphs
 - SQL 
 - R (ggplot, etc)
 - Python (pandas, numpy, scipy, etc)
+- Mongo DB
 
 ## Concepts
 
