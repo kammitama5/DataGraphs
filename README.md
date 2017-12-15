@@ -9,6 +9,15 @@ ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
 ## this is in the cloud publicly, so be careful what is in here
 ## to see notebook->https://instancename(topfolder)-username.c9users.io
 ```
+## Types of Data
+- XML
+- JSON
+- CSVs
+
+## Libraries
+- import xml.etree.ElementTree
+- prettyprint
+- 
 
 # DataGraphs
 data and graphs
