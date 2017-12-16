@@ -13,6 +13,7 @@ ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
 - XML
 - JSON
 - CSVs
+- WebScraped data
 
 ## Libraries
 - import xml.etree.ElementTree
@@ -20,6 +21,7 @@ ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
 - xlrd
 - pandas
 - numpy
+- Beautiful Soup
 
 # DataGraphs
 data and graphs
