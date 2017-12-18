@@ -40,3 +40,10 @@ data and graphs
 ## Concepts
 
 - Simpson's Paradox 
+
+## Notes from 
+
+- Data Science Maths
+- Bayesian Statistics
+
+
