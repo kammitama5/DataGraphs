@@ -1,3 +1,7 @@
+## Includes code I wrote for specific assignments 
+
+- General Assignments; larger project will be in another repo
+
 ## Set Up
 - Local is set up as standard
 - Cloud9 set up
