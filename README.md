@@ -2,7 +2,7 @@
 
 - General Assignments; larger projects will be in another repo.
   These are from two courses mainly: 
-  - Coursera Python Data Analysis and 
+  - Coursera Python Data Analysis 
   - Udacity's Data Analyst Nanodegree. 
 
 ## Set Up
