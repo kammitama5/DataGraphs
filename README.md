@@ -1,6 +1,9 @@
 ## Includes code I wrote for specific assignments 
 
-- General Assignments; larger project will be in another repo
+- General Assignments; larger projects will be in another repo.
+  These are from two courses mainly: 
+  - Coursera Python Data Analysis and 
+  - Udacity's Data Analyst Nanodegree. 
 
 ## Set Up
 - Local is set up as standard
