@@ -1,9 +1,10 @@
 ## Includes code I wrote for specific assignments 
 
 - General Assignments; larger projects will be in another repo.
-  These are from two courses mainly: 
+  These are from courses: 
   - Coursera Python Data Analysis 
-  - Udacity's Data Analyst Nanodegree. 
+  - Coursera Data Science Maths
+  - Udacity's Data Analyst Nanodegree
 
 ## Set Up
 - Local is set up as standard
