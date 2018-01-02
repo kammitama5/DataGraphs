@@ -23,6 +23,14 @@ ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
 - CSVs
 - WebScraped data
 
+## Notes
+- Binomial Distribution
+```
+n!
+-----
+k!(n-k)!
+```
+
 ## Libraries
 - import xml.etree.ElementTree
 - prettyprint
