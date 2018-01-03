@@ -31,6 +31,17 @@ n!
 k!(n-k)!
 ```
 
+## Normalization
+
+- Normal distribution with mean and variance 
+```
+Area under curve
+
+  1
+----
+(2 * pi * (sigma^2))^(1/2)
+```
+
 ## Libraries
 - import xml.etree.ElementTree
 - prettyprint
