@@ -42,6 +42,32 @@ Area under curve
 (2 * pi * (sigma^2))^(1/2)
 ```
 
+## Jupyter stuff
+
+- draw a random number (n) of samples from data
+
+```
+randomnum = np.random.choice(data, n)
+```
+
+- calculate the mean of that sample
+
+```
+randomnum.mean()
+```
+
+- calculate the variance
+
+```
+np.var(randomnum)
+```
+
+- calculate standard deviation
+
+```
+np.std(randomnum)
+```
+
 ## Libraries
 - import xml.etree.ElementTree
 - prettyprint
