@@ -72,11 +72,22 @@ np.std(randomnum)
 
 ```
 arr = []
-for i in range(100000): # get a sample of 20 from data's 
+# get a sample of 20 random draw from data
+for i in range(100000): 
     # 10000 generated values, append
     sample = np.random.choice(data, 20)
     #  append the mean for each sample mean
     arr.append(sample.mean()) 
+```
+
+## Visualization using Matplotlib
+
+```
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+# plot histogram of arr
+plt.hist(arr);
 ```
 
 ## Bootsrapping 
