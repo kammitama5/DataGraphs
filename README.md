@@ -68,6 +68,20 @@ np.var(randomnum)
 np.std(randomnum)
 ```
 
+- for looping through and appending sample data in array
+
+```
+arr = []
+for i in range(100000): # get a sample of 20 from data's 
+    # 10000 generated values, append
+    sample = np.random.choice(data, 20)
+    #  append the mean for each sample mean
+    arr.append(sample.mean()) 
+```
+
+## Bootsrapping 
+- Bootstrapping is sampling with replacement
+
 ## Libraries
 - import xml.etree.ElementTree
 - prettyprint
