@@ -89,9 +89,19 @@ import matplotlib.pyplot as plt
 # plot histogram of arr
 plt.hist(arr);
 ```
+## Concepts
 
 ## Bootsrapping 
 - Bootstrapping is sampling with replacement
+
+## Hypothesis Testing
+
+## Confidence Intervals
+
+## Bonferroni Correction
+
+## P-values 
+
 
 ## Libraries
 - import xml.etree.ElementTree
