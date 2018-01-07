@@ -4,6 +4,7 @@
   These are from courses: 
   - Coursera Python Data Analysis 
   - Coursera Data Science Maths
+  - Coursera Python Data Representations
   - Udacity's Data Analyst Nanodegree
 
 ## Set Up
