@@ -24,6 +24,30 @@ ipython notebook --ip=0.0.0.0 --port=8080 --no-browser
 - CSVs
 - WebScraped data
 
+## Regularly Used Functions
+
+- import libraries
+
+```
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
+- read in data 
+
+```
+df = pd.read_csv('data.csv')
+```
+- rename unnamed column
+
+```
+df = df.loc[:, ~df.columns.str.contains('^Unnamed')]
+```
+
+
+
 ## Notes
 - Binomial Distribution
 ```
