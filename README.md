@@ -76,6 +76,13 @@ SELECT DISTINCT x
 FROM y;
 ```
 
+- count distinct
+
+```
+SELECT COUNT(DISTINCT x)
+FROM y;
+```
+
 ## Jupyter stuff
 
 - draw a random number (n) of samples from data
