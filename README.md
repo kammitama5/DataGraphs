@@ -6,6 +6,7 @@
   - Coursera Data Science Maths
   - Coursera Python Data Representations
   - Udacity's Data Analyst Nanodegree
+  - DataCamp 'Intro to SQL' course
 
 ## Set Up
 - Local is set up as standard
@@ -65,6 +66,14 @@ Area under curve
   1
 ----
 (2 * pi * (sigma^2))^(1/2)
+```
+## SQL stuff
+
+- unique values
+
+```
+SELECT DISTINCT x
+FROM y;
 ```
 
 ## Jupyter stuff
