@@ -83,6 +83,10 @@ SELECT COUNT(DISTINCT x)
 FROM y;
 ```
 
+- CAUSE (IF THEN)
+- COALESCE
+- EXPLAIN (helps with showing order of operation for data processing)
+
 ## Jupyter stuff
 
 - draw a random number (n) of samples from data
